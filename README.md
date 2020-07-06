@@ -1,6 +1,6 @@
 # AWS-acloud.guru-Introduction-to-AWS
 ## 01 Introduction
-img
+![exams.png](https://github.com/zuFrost/AWS-acloud.guru-Introduction-to-AWS/blob/master/01/exams.png) <br>
 ## 02 Keeping Up To Date - AWS This Week!
 ## 03 AWS History
 ## 04 10,000 ft Overview 1: Networking & Compute
